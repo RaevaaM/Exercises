@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\Zad4Win.exe.config
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\Zad4Win.exe
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\Zad4Win.pdb
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.Properties.Resources.resources
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.csproj.CopyComplete
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.exe
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.pdb
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.Migrations.init.resources
+C:\Users\Admin\source\repos\Zad4Win\Zad4Win\obj\Debug\Zad4Win.Editor.resources
